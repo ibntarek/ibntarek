@@ -26,7 +26,6 @@ University projects: interactive games designed to make learning easier.
 |---|---|---|
 | [Digital-Security-Game-Project](https://github.com/ibntarek/Digital-Security-Game-Project) | HTML | Educational game that teaches digital security concepts |
 | [Arab-World-Explorer](https://github.com/ibntarek/Arab-World-Explorer) | JavaScript | Interactive educational game for exploring the Arab world |
-| [The-Breathing-Game](https://github.com/ibntarek/The-Breathing-Game) | HTML | Interactive educational game about breathing |
 
 ## Skills & Tools
 
