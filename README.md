@@ -28,14 +28,11 @@ I'm a self-directed learner building practical cybersecurity skills, with a focu
 
 ## Skills & Tools
 
-**Web Application Security**
-Broken Access Control (IDOR) · SQL Injection · SSRF
-*Currently learning:* Command Injection · CSRF
+- **Web Application Security:** Broken Access Control (IDOR) · SQL Injection · SSRF
+- **Currently learning:** Command Injection · CSRF
+- **Tools:** Burp Suite · Nmap · ffuf · Nuclei · Subfinder · httpx · Katana
+- **Foundations:** Networking basics · Web fundamentals (HTTP) · Cryptography basics
 
-**Tools**
-Burp Suite · Nmap · ffuf · Nuclei · Subfinder · httpx · Katana
-
-**Foundations**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,8 +40,6 @@ Burp Suite · Nmap · ffuf · Nuclei · Subfinder · httpx · Katana
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-Networking basics · Web fundamentals (HTTP) · Cryptography basics
 
 ## Connect
 
