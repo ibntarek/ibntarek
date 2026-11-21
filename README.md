@@ -24,7 +24,6 @@ I'm a self-directed learner building practical cybersecurity skills, with a focu
 |---|---|---|
 | [Arab-World-Explorer](https://github.com/ibntarek/Arab-World-Explorer) | JavaScript | Interactive explorer for the Arab world |
 | [Digital-Security-Game-Project](https://github.com/ibntarek/Digital-Security-Game-Project) | HTML | Game project about digital security |
-| [The-Breathing-Game](https://github.com/ibntarek/The-Breathing-Game) | HTML | Interactive breathing game |
 
 ## Skills & Tools
 
