@@ -14,16 +14,19 @@ I'm a self-directed learner building practical cybersecurity skills, with a focu
 ## What I'm Working On
 
 - Web application security fundamentals (OWASP Top 10)
-- Hands-on practice on legal training platforms
+- Hands-on labs on PortSwigger Web Academy and TryHackMe
 - Writing up what I learn in clear, reusable notes
 - Building projects that combine web development and security awareness
 
 ## Featured Projects
 
+University projects: interactive games designed to make learning easier.
+
 | Project | Language | Description |
 |---|---|---|
-| [Arab-World-Explorer](https://github.com/ibntarek/Arab-World-Explorer) | JavaScript | Interactive explorer for the Arab world |
-| [Digital-Security-Game-Project](https://github.com/ibntarek/Digital-Security-Game-Project) | HTML | Game project about digital security |
+| [Digital-Security-Game-Project](https://github.com/ibntarek/Digital-Security-Game-Project) | HTML | Educational game that teaches digital security concepts |
+| [Arab-World-Explorer](https://github.com/ibntarek/Arab-World-Explorer) | JavaScript | Interactive educational game for exploring the Arab world |
+| [The-Breathing-Game](https://github.com/ibntarek/The-Breathing-Game) | HTML | Interactive educational game about breathing |
 
 ## Skills & Tools
 
@@ -42,8 +45,8 @@ I'm a self-directed learner building practical cybersecurity skills, with a focu
 
 ## Connect
 
-- LinkedIn: `www.linkedin.com/in/zead-ibntarek`
-- Email: `zead.ibntarek@gmail.com`
+- LinkedIn: [linkedin.com/in/zead-ibntarek](https://www.linkedin.com/in/zead-ibntarek)
+- Email: [zead.ibntarek@gmail.com](mailto:zead.ibntarek@gmail.com)
 
 ---
 
